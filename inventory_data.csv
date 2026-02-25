@@ -1,11 +1,11 @@
-product_id,product_name,brand,current_stock,minimum_stock,reorder_point,daily_sales,unit_cost,unit_price,lead_time_days,primary_supplier,secondary_supplier,supplier_reliability
+﻿product_id,product_name,brand,current_stock,minimum_stock,reorder_point,daily_sales,unit_cost,unit_price,lead_time_days,primary_supplier,secondary_supplier,supplier_reliability
 LT001,ThinkPad X1 Carbon,Lenovo,8,5,10,2,1250,1899,3,Lenovo Benelux,Central Point,95
-LT002,MacBook Pro 14",Apple,4,3,5,1,1650,2299,5,Apple Premium Reseller,Alternate.nl,98
+LT002,"MacBook Pro 14""",Apple,4,3,5,1,1650,2299,5,Apple Premium Reseller,Alternate.nl,98
 LT003,Latitude 5440,Dell,12,8,15,3,850,1299,2,Dell Nederland,Central Point,92
-LT004,EliteBook 840 G10,HP,3,4,5,2,950,1499,4,HP Netherlands,Alternate.nl,88
+LT004,EliteBook 840 G10,HP,6,4,5,2,950,1499,4,HP Netherlands,Alternate.nl,88
 LT005,ZenBook 14,Asus,15,10,12,4,700,1099,3,Asus Benelux,Central Point,90
-LT006,MacBook Air M2,Apple,2,3,4,2,1150,1699,5,Apple Premium Reseller,Alternate.nl,98
+LT006,MacBook Air M2,Apple,4,3,4,2,1150,1699,5,Apple Premium Reseller,Alternate.nl,98
 LT007,ThinkBook 16,Lenovo,9,6,8,3,650,999,2,Lenovo Benelux,Central Point,95
-LT008,Precision 5680,Dell,1,2,3,1,1450,2199,3,Dell Nederland,Alternate.nl,92
+LT008,Precision 5680,Dell,3,2,3,1,1450,2199,3,Dell Nederland,Alternate.nl,92
 LT009,ROG Zephyrus G14,Asus,5,4,5,2,1100,1799,4,Asus Benelux,Central Point,90
 LT010,ProBook 450 G10,HP,7,5,8,3,600,899,2,HP Netherlands,Alternate.nl,88
